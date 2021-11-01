@@ -1,10 +1,8 @@
 # YouTube Video Downloader
 
-<div id="top"></div>
-
 <div align="center">
   <a href="https://github.com/ReemNawaf/youtube_video_downloader">
-    <img src="images/yvd1.png" alt="Logo" width="80" height="80">
+    <img src="images/yvd1.png" alt="program-output-screen">
   </a>
 
 <h3 align="center">Youtube Video Downloader</h3>
@@ -48,6 +46,14 @@ Besides insatalling python 3, make sure pip package is installed too.
 * Download any youtube video in any resoution including 4k.
 * Download an entire youtube playlist with one click
 * Open the video after downloading it
+
+<div align="center">
+  <a href="https://github.com/ReemNawaf/youtube_video_downloader">
+    <img src="images/yvd1.png" alt="program-output-screen">
+  </a>
+  <a href="https://github.com/ReemNawaf/youtube_video_downloader">
+    <img src="images/yvd2.png" alt="program-output-screen">
+  </a>
 
 <!-- CONTACT -->
 ## Contact
