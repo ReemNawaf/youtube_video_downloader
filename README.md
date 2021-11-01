@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/ReemNawaf/youtube_video_downloader">
-    <img src="images/yvd1.png" alt="Logo" width="120" height="30">
+    <img src="images/yvd1.png" alt="program-output-screen">
   </a>
 
 <h3 align="center">Youtube Video Downloader</h3>
